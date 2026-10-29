@@ -1,0 +1,7 @@
+{
+  "name": "ABQARYNO SELF-HEALING ULTIMATE V3 — عبقرينو",
+  "description": "عبقرينو — استوديو إنشاء البرامج والإصلاح الذاتي، الاختبارات الآلية، والنشر السحابي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
